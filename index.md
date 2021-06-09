@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About
 This is a deep neural networks based method.  Learning from observations of deaths, cases and hosiptalization \[1, 2\] since the outbreak in early 2020, our deep neural networks are trained to forecast state-level cumulative deaths in the United States.
 
