@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: [HKUST-DNN]
-description: [Deep Neural Networks Based State-level COVID-19 Forecast]
+title: HKUST-DNN
+description: Deep Neural Networks Based State-level COVID-19 Forecast
 github:
   is_project_page: false
