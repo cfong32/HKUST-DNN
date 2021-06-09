@@ -20,5 +20,5 @@ Department of Computer Science and Engineering
 The Hong Kong University of Science and Technology
 
 ## Data source
-\[1\] <a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a>  
-\[2\] <a href="https://github.com/GoogleCloudPlatform/covid-19-open-data">https://github.com/GoogleCloudPlatform/covid-19-open-data</a>
+\[1\] <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">https://github.com/CSSEGISandData/COVID-19</a>  
+\[2\] <a href="https://github.com/GoogleCloudPlatform/covid-19-open-data" target="_blank">https://github.com/GoogleCloudPlatform/covid-19-open-data</a>
