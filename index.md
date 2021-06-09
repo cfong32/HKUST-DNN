@@ -4,7 +4,8 @@ title: HKUST-DNN
 ---
 
 ## About
-HKUST-DNN forecasts the trends of COVID-19 at the state level using deep neural networks. Based on observations of deaths, cases, and hospitalization data \[1, 2\] since the outbreak in early 2020, our deep neural networks are trained to forecast state-level cumulative deaths in the United States.
+HKUST-DNN forecasts the trends of COVID-19 at the state level using deep neural networks. Based on observations of deaths, cases, and hospitalization data \[<a href="#data-source">1</a>, <a href="#data-source">2</a>\] since the outbreak in early 2020, our deep neural networks are trained to forecast state-level cumulative deaths in the United States.
+
 
 ## Latest state-level forecast
 (updated on 2021-06-07)
