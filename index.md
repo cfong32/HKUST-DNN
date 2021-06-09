@@ -10,7 +10,7 @@ This is a deep neural networks based method.  Learning from observations of deat
 
 <img src="fig/210605/projection_06_CA_210605.png" width="400"> <img src="fig/210605/projection_12_FL_210605.png" width="400"> <img src="fig/210605/projection_36_NY_210605.png" width="400"> <img src="fig/210605/projection_48_TX_210605.png" width="400">
 
-[more results](results.md#content)
+[more results](results.md)
 
 ## Contact
 <a href="mailto:fcy@cse.ust.hk">Chung-Yan FONG</a> and <a href="http://home.cse.ust.hk/~dyyeung">Professor Dit-Yan YEUNG</a>  
