@@ -17,6 +17,6 @@ This is a deep neural networks based method.  Learning from observations of deat
 Department of Computer Science and Engineering  
 The Hong Kong University of Science and Technology
 
-## Data sources
+## Data source
 \[1\] https://github.com/CSSEGISandData/COVID-19  
 \[2\] https://github.com/GoogleCloudPlatform/covid-19-open-data
