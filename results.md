@@ -1,5 +1,6 @@
 ---
-title: HKUST-DNN
+layout: page
+title: Results
 ---
 ## Cumulative deaths forecast of 50 states and Washington, D.C.
 (updated on 2021-06-07)  
