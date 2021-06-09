@@ -1,4 +1,4 @@
-## Cumulative deaths forecast of 50 states and Washington, D.C.
+# Cumulative deaths forecast of 50 states and Washington, D.C.
 (updated on 2021-06-07)  
 <img src="fig/210605/projection_01_AL_210605.png" width="400">
 <img src="fig/210605/projection_02_AK_210605.png" width="400">
