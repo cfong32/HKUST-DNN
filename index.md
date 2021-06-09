@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About
+This is a deep neural networks based method.  Learning from observations of deaths, cases and hosiptalization \[1, 2\] since the outbreak in early 2020, our deep neural networks are trained to forecast state-level cumulative deaths in the United States.
 
-You can use the [editor on GitHub](https://github.com/cfong32/HKUST-DNN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Latest state-level forecast
+(updated on 2021-06-07)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="fig/210605/projection_06_CA_210605.png" width="400"> <img src="fig/210605/projection_12_FL_210605.png" width="400"> <img src="fig/210605/projection_36_NY_210605.png" width="400"> <img src="fig/210605/projection_48_TX_210605.png" width="400">
 
-### Markdown
+[more results](results.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
+<a href="mailto:fcy@cse.ust.hk">Chung-Yan FONG</a> and <a href="http://home.cse.ust.hk/~dyyeung">Professor Dit-Yan YEUNG</a>  
+Department of Computer Science and Engineering  
+The Hong Kong University of Science and Technology
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfong32/HKUST-DNN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Data sources
+\[1\] https://github.com/CSSEGISandData/COVID-19  
+\[2\] https://github.com/GoogleCloudPlatform/covid-19-open-data
