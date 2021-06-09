@@ -15,7 +15,7 @@ HKUST-DNN forecasts the trends of COVID-19 at the state level using deep neural 
 [more results](results.md)
 
 ## Contact
-<a href="mailto:fcy@cse.ust.hk">Chung-Yan FONG</a> and <a href="http://home.cse.ust.hk/~dyyeung">Professor Dit-Yan YEUNG</a>  
+<a href="mailto:fcy@cse.ust.hk">Chung-Yan FONG</a> and <a href="http://home.cse.ust.hk/~dyyeung" target="_blank">Professor Dit-Yan YEUNG</a>  
 Department of Computer Science and Engineering  
 The Hong Kong University of Science and Technology
 
