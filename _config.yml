@@ -3,3 +3,5 @@ title: HKUST-DNN
 description: State-level COVID-19 Trend Forecasting using Deep Neural Networks
 show_downloads: false
 google_analytics: G-DDFGPDH5TE
+github:
+  is_project_page: false
