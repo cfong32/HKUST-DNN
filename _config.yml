@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: HKUST-DNN
 description: State-level COVID-19 Trend Forecasting using Deep Neural Networks
-github:
-  is_project_page: false
+show_downloads: false
+google_analytics: G-DDFGPDH5TE
