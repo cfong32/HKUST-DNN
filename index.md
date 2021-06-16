@@ -8,7 +8,7 @@ HKUST-DNN forecasts the trends of COVID-19 at the state level using deep neural 
 
 
 ## Latest state-level forecast
-(updated on {{site.model_date}})  
+(updated on {{site.updated_on}})  
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_06_CA_{{site.model_date|date:'%y%m%d'}}.png" width="400">
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_12_FL_{{site.model_date|date:'%y%m%d'}}.png" width="400">
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_36_NY_{{site.model_date|date:'%y%m%d'}}.png" width="400">

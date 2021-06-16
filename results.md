@@ -4,7 +4,7 @@ title: Results
 ---
 
 ## Cumulative deaths forecast of 50 states and Washington, D.C.
-(updated on {{site.model_date}})  
+(updated on {{site.updated_on}})  
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_01_AL_{{site.model_date|date:'%y%m%d'}}.png" width="400">
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_02_AK_{{site.model_date|date:'%y%m%d'}}.png" width="400">
 <img src="fig/{{site.model_date|date:'%y%m%d'}}/projection_04_AZ_{{site.model_date|date:'%y%m%d'}}.png" width="400">
